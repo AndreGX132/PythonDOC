@@ -1,1 +1,2 @@
 # PythonDOC
+python --version
